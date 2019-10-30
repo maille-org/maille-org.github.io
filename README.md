@@ -1,2 +1,5 @@
 # maille-org.github.io
-maille.org github hosted website
+
+https://maille-org.github.io
+
+GitHub hosted website for maille.org
